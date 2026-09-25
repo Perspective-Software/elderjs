@@ -8,9 +8,6 @@
   <a href="https://npmjs.org/package/@elderjs/elderjs">
     <img src="https://badgen.net/npm/v/@elderjs/elderjs" alt="version" />
   </a>
-  <a href="https://codecov.io/gh/elderjs/elderjs">
-    <img src="https://badgen.net/codecov/c/github/elderjs/elderjs" alt="codecov" />
-  </a> 
   <a href="https://github.com/elderjs/elderjs/actions?query=workflow%3A%22Elder.js+CI%22">
     <img src="https://github.com/Elderjs/elderjs/workflows/Elder.js%20CI/badge.svg" alt="elder.js ci" />
   </a>
